@@ -8,7 +8,7 @@ Klistra bara in en Binogi-lektions-URL som `https://app.binogi.se/l/synen` i inm
 ## Installation
 Klona repot:
 ```
-git clone https://github.com/yourusername/binogi-svarar-upphittare.git
+git clone https://github.com/axalii/binogi-quiz-slver.git
 ```
 Öppna `index.html` i din webbläsare.
 
